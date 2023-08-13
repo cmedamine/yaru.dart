@@ -500,6 +500,7 @@ ThemeData createYaruTheme({
     useMaterial3: useMaterial3,
     colorScheme: colorScheme,
   ).copyWith(
+    splashFactory: NoSplash.splashFactory,
     iconButtonTheme: IconButtonThemeData(
       style: IconButton.styleFrom(
         foregroundColor: colorScheme.onSurface,

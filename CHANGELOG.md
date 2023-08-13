@@ -234,7 +234,7 @@
 ## 0.3.0
 * [jpnurmi](https://github.com/jpnurmi)
   * Relax dbus version constraint (#168)
-  * Add successColor and warningColor extensions for ThemeData (#167)
+  * Add successColor and warningColor extensions for  (#167)
   * Use yaru_colors (#166)
   * Enable flutter_lints/recommended and fix findings (#165)
   * Rename yaruMate to yaruUbuntuMate for consistency (#164)
